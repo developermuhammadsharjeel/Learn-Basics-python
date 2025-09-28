@@ -32,5 +32,4 @@ It’s designed for beginners and intermediate learners who want to strengthen t
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-  git clone https://github.com/developermuhammadsharjeel/Learn-Python.git
-   cd learn-python
+  git clone https://github.com/developermuhammadsharjeel/Learn-Basics-python.git
