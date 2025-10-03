@@ -14,4 +14,10 @@ print(listw)
 #slicing
 print(listw[1:5])
 
+#append 
+listw.append(98)
+print(listw)
+
+
+
 
