@@ -122,3 +122,5 @@ print(paragraph.rpartition("paragraph"))
 # .encode() to encode string to bytes
 print(name.encode())
 
+
+
