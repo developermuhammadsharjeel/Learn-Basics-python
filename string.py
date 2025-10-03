@@ -16,3 +16,6 @@ We can add any type of text and paragraph in this area. Simply, we have to write
 we can print it.
 """
 print(paragraph)
+
+print(paragraph.upper())
+print(paragraph.lower())
