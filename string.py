@@ -1,16 +1,18 @@
 ## Simple Text (string)
 
 name = "Sharjeel"
-print("name")
+print(name)
+
 
 
 """
-Multiline Strings, Used to print a paragraph in a sinle output
+Multiline Strings: Used to print a paragraph in a single output.
+It's a very awesome feature of Python.
 """
 
-paragraph = """ This is a paragraph. In this way we can make and run a multiline strings in strings.
-we acn add any type of the strings and paragraph in this area, simply we have to write the paragraph in three " so
-we could print it
 
+paragraph = """This is a paragraph. In this way, we can create and print multiline strings.
+We can add any type of text and paragraph in this area. Simply, we have to write the paragraph within three double quotes so
+we can print it.
 """
 print(paragraph)
