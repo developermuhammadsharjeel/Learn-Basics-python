@@ -1,10 +1,13 @@
+def greet(fx):
+    def hello(*args, **kwargs):
+        print("hello friends")
+        fx(*args, **kwargs)
+        print("good bye")
+    return hello
+    
 
-def hello(a,b):
-    return a+b
-
-print(hello(12,18))
-print(hello(12,20))
-print(hello(12,1))
-print(hello(12,10))
-
-            
+@greet
+def add(a, b):
+    print(a + b)
+    
+add(10,12)
